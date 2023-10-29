@@ -1,6 +1,3 @@
-It is a control statement and looping statement..0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
-
-This is Sivani.
+It is a control statement and looping statement.
 It is a iterative statement.
-It is a While loop.tatement.
-It is a While loop.a While loop.hile loop.This is SivaniThis is Sivani.This is Sivani.
+It is a While loop.
